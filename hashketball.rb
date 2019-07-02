@@ -170,6 +170,5 @@ def big_shoe_rebounds
     stats[1][:shoe]
   end
   max = [max_home, max_away].max
-      # binding.pry
   max[1][:rebounds]
 end
